@@ -52,3 +52,5 @@
             </ul>
         </div>
     </nav>
+
+    <?php include('templates/footer.php'); ?>

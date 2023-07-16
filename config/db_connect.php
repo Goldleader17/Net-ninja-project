@@ -8,6 +8,8 @@
     // check connection
     if(!$conn){
         echo 'Connection error: ' . mysqli_connect_error();
+
+        echo "<?php include('templates/footer.php'); ?>";
     }
 
     // PDO (OBJECTS)

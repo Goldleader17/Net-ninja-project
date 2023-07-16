@@ -108,4 +108,6 @@
     <rect id="Rectangle_10" data-name="Rectangle 10" width="6.076" height="6.076" transform="translate(302.412 247.779) rotate(158)" fill="#e5a046"/>
     <path id="Path_32" data-name="Path 32" d="M0,6.076,6.076,0V6.076Z" transform="translate(302.412 247.779) rotate(158)" fill="#ecbf43"/>
   </g>
+
+  <?php include('templates/footer.php'); ?>
 </svg>

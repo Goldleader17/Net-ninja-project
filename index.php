@@ -63,6 +63,6 @@
     </div>
 </div>
 
-<?php include('templates/footer.php'); ?>
+
     
 </html>
